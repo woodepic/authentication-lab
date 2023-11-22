@@ -24,3 +24,10 @@ HTTP authentication schemes provided in Django Rest Framework.
 6. Start the Django application.
     `./manage.py runserver`
 
+Note: 
+    My token:
+        0a0955bee5cffd87527e08e86ce0be2495ca32e8
+
+    My login:
+        admin
+        admin
